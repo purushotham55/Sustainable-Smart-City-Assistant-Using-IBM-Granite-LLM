@@ -1,1 +1,0 @@
-Samrt city assistent app
